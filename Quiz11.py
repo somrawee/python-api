@@ -44,6 +44,8 @@ my_layout = Layout(title='World Fires')
 fig={'data':data, 'layout':my_layout}
 offline.plot(fig, filename='world_fires.html')
 
+#test edit file
+
 #print(lons[:5])
 #print(lats[:5])
 #print(brightnesses[:5])
